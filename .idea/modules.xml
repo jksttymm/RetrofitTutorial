@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Github VCS-RetrofitTutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/Github VCS-RetrofitTutorial.iml" group="RetrofitTutorial" />
       <module fileurl="file://$PROJECT_DIR$/RetrofitTutorial.iml" filepath="$PROJECT_DIR$/RetrofitTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RetrofitTutorial-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RetrofitTutorial-app.iml" group="RetrofitTutorial/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
